@@ -1,5 +1,5 @@
 # Cyber-Threat-Intelligence-through-OSINT
 
-VigilantOSINT is a cybersecurity platform that combines machine learning with open-source intelligence (OSINT) to detect, analyze, and report threats in real time.
+VigilantOSINT is a cybersecurity platform that integrates multiple open-source intelligence (OSINT) services into a single, easy-to-use dashboard. The platform allows users to scan files and URLs, investigate IPs and domains, and stay updated with the latest cybersecurity news.
 
-The system brings together multiple intelligence APIs such as VirusTotal, AbuseIPDB, Shodan, Pulsedive, WhoisXML, GreyNoise, IPInfo, and IPRegistry, while also integrating a machine learning–based malicious URL detection model. The goal is to reduce investigation time, automate correlation of threat indicators, and provide meaningful, structured reports to security analysts.
+By consolidating intelligence feeds such as VirusTotal, AbuseIPDB, Shodan, Pulsedive, WhoisXML, GreyNoise, IPInfo, and IPRegistry, the system reduces the need for switching between multiple tools. It provides structured results, automated reporting, and a responsive interface designed to support faster and more accurate threat investigations.
